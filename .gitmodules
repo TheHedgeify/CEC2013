@@ -1,0 +1,3 @@
+[submodule "python3/algorithms"]
+	path = python3/algorithms
+	url = git@github.com:TheHedgeify/niching-algorithms.git
