@@ -2,5 +2,4 @@
 .cache
 *.md
 
-python3/algorithms
 competition-analysis/submissions
